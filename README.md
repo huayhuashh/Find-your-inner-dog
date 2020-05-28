@@ -14,6 +14,8 @@ The Jupyter Notebook is available in the repo. This provides you a step-by-step 
 - Step 3: Create a CNN to Classify Dog Breeds (from Transfer Learning)
 - Step 4: Create the Algorithm
 
+*Note*: You can see the output of the Jupyter Notebook directly in GitHub by choosing 'Display the rendered blob'.
+
 ## Next steps
 There are a couple of ideas for improvements outlined at the end of the notebook – feel encouraged to develop this code even further.
 
