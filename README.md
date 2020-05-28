@@ -7,14 +7,12 @@ Classifying dog breeds from images is considered exceptionally challenging, beca
 Using transfer learning, this algorithm achieves stellar accuracy on classifying dog breeds from images. The test accuracy of our model after training for 25 epochs on a GPU instance lies around 85%. This allows us to make an 'educated prediction' on people's 'dog alter ego'. Find your inner dog.
 
 ## Starting point
-The Jupyter Notebook provides you a step-by-step guide to build a Dog Breed Predictor Algorithm:
+The Jupyter Notebook is available in the repo. This provides you a step-by-step guide to build a Dog Breed Predictor Algorithm:
 - Step 0: Import Datasets
 - Step 1: Detect Humans
 - Step 2: Detect Dogs
 - Step 3: Create a CNN to Classify Dog Breeds (from Transfer Learning)
 - Step 4: Create the Algorithm
-
-Both the Jupyter Notebook and html output are available in the repo.
 
 ## Next steps
 There are a couple of ideas for improvements outlined at the end of the notebook – feel encouraged to develop this code even further.
