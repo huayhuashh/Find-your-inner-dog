@@ -1,1 +1,23 @@
-# Find-your-inner-dog
+# Find your inner dog
+Predict the associated dog type of their proud human owners using convolutional neural nets and transfer learning in PyTorch.
+
+## Context
+Classifying dog breeds from images is considered exceptionally challenging, because of minimal inter-class variation between certain dog breeds. This algorithm leverages convolutional neural nets and data augmentation to classify images in 133 possible dog breed classes. 
+
+Using transfer learning, this algorithm achieves stellar accuracy on classifying dog breeds from images. The test accuracy of the CNN model after training for 25 epochs on a GPU instance is about 85%. This allows us to make an educated guess on the associated dog type of their proud human owners. Find your inner dog.
+
+## Starting point
+The Jupyter Notebook provides you a step-by-step guide to build a Dog Breed Predictor Algorithm:
+- Step 0: Import Datasets
+- Step 1: Detect Humans
+- Step 2: Detect Dogs
+- Step 3: Create a CNN to Classify Dog Breeds (from Transfer Learning)
+- Step 4: Create the Algorithm
+
+Both the Jupyter Notebook and html output are available in the repo.
+
+## Next steps
+There are a couple of ideas for improvements outlined at the end of the notebook – feel encouraged to develop this code even further.
+
+## License
+This content is affiliated with Udacity's Nano Degree in Deep Learning.
