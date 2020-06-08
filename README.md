@@ -2,7 +2,7 @@
 Predict the associated dog type of their proud human owners using convolutional neural nets and transfer learning in PyTorch.
 
 ## Context
-Classifying dog breeds from images is considered exceptionally challenging, because of minimal inter-class variation between certain dog breeds. This algorithm leverages convolutional neural nets and data augmentation to classify images in 133 possible dog breed classes. 
+Classifying dog breeds from images is considered exceptionally challenging, because of minimal inter-class variation between certain dog breeds. This algorithm leverages convolutional neural nets and data augmentation to classify dog images in 133 possible breed classes. 
 
 Using transfer learning, this algorithm achieves stellar accuracy on classifying dog breeds from images. The test accuracy of our model after training for 25 epochs on a GPU instance lies around 85%. This allows us to make an 'educated prediction' on people's 'dog alter ego'. Find your inner dog.
 
